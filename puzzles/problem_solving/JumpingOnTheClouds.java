@@ -3,6 +3,7 @@ package problem_solving;
 import java.io.*;
 import java.util.*;
 
+
 public class JumpingOnTheClouds {
 
     static int jumpingOnClouds(int[] clouds) {
