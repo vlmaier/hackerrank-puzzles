@@ -1,2 +1,1 @@
-# hackerrank-puzzles
-Hackerrank Puzzles
+## Hackerrank Puzzles & Problems Solutions
