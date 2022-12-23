@@ -1,4 +1,4 @@
-package problem_solving;
+package problem.solving;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
